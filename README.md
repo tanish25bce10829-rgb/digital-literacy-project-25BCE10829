@@ -1,5 +1,5 @@
-# digital-literacy-project-25BCE10829
-# Digital Literacy Project
+# Digital-literacy-project-25BCE10829
+
 
 ## Author
 
@@ -18,7 +18,7 @@ This project was completed as part of my Digital Literacy course. Through these 
 
 In this task, I created an infographic to explain what digital literacy means and why it is important. I included topics like useful digital tools, safe internet practices, and email etiquette. I designed it using Canva and made sure it was simple and easy to understand.
 
- `task-1-presentation/`
+
 
 ---
 
@@ -26,7 +26,7 @@ In this task, I created an infographic to explain what digital literacy means an
 
 In this task, I worked on (add your task here). It helped me understand (what you learned in 1–2 lines).
 
-`task-2-_____ /`
+
 
 ---
 
@@ -34,7 +34,7 @@ In this task, I worked on (add your task here). It helped me understand (what yo
 
 For this task, I explored coding platforms and collaboration tools. I created an account on HackerRank and solved a beginner-level problem, which helped me practice basic programming. I also made a Google Form quiz on digital literacy and connected it with Google Sheets to collect responses. This showed me how data can be collected and analyzed easily.
 
- `task-3-platforms/`
+ 
 
 ---
 
@@ -42,7 +42,7 @@ For this task, I explored coding platforms and collaboration tools. I created an
 
 In this task, I worked on (add your task here). It helped me improve my understanding of (what you learned).
 
-`task-4-_____ /`
+
 
 ---
 
@@ -50,7 +50,7 @@ In this task, I worked on (add your task here). It helped me improve my understa
 
 In this task, I learned about cybercrime, especially UPI fraud. I wrote a case study explaining how such scams happen and who they target. I also created a checklist with safety tips that students can follow to stay secure online.
 
-`task-5-cybercrime/`
+
 
 ---
 
