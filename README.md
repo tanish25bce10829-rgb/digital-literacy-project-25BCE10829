@@ -27,4 +27,5 @@ Google form link-https://docs.google.com/forms/d/e/1FAIpQLSceUg4vaqqaMqRW6iHkWBT
 Task 5: Cybercrime Awareness
 
 In this task, I explored cybercrime, focusing on UPI and online payment fraud. I wrote a case study explaining how such frauds happen step by step, who is usually targeted, and what consequences victims face. While researching, I was surprised by how easily people can be tricked through fake calls, messages, and links. I also created a prevention checklist with practical tips that students can follow to stay safe online. This task made me more aware of digital threats and the importance of being cautious while using online platforms. One important habit I will follow is never sharing sensitive information like OTP or UPI PIN. Overall, this task was very informative and helped me understand how to protect myself in the digital world.
+
 ---
